@@ -5,7 +5,7 @@
 
 ## Introduction
 
-IPL is a professional Twenty20 cricket league in India. It has become one of the most popular cricket leagues in the world attracting top players from around the globe. In this project, I have analyzed the IPL Dataset spanning from 2008 to 2020, utilizing the data visualization tool Tableau. The goal is to analyze the performance of both players and teams over the years. By creating interactive dashboard, we can identify trends and patterns that can help us to make informed decisions about strategy and player selection.
+IPL is a professional Twenty20 cricket league in India. It has become one of the most popular cricket leagues in the world attracting top players from around the globe. In this project, I have analyzed the IPL Dataset spanning from 2008 to 2020, utilizing the powerful data visualization tool Tableau. The goal is to analyze the performance of both players and teams over the years. By creating interactive dashboard, we can identify trends and patterns that can help us to make informed decisions about strategy and player selection.
 
 
 ## Dataset from [kaggle](https://www.kaggle.com/code/pranjalverma08/detailed-analysis-of-ipl-data-2008-2020/data)
