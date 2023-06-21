@@ -44,10 +44,8 @@ Tableau and Excel
 
 <img width="385" alt="Toss_decision_percent" src="https://github.com/ishita9988/IPL_Dashboard/assets/129153274/30aa18c7-e1d5-4236-b1d0-a706cc0c4d7b">
 
-**We can see the toss decision percentage. Approx 61% teams chooses to field first. In this chart, the data is considered till year 2020
+**We can see the toss decision percentage. Approx 61% teams chooses to field first. In this chart, the data is considered till year 2020**
 
-
-#### No of Matches win based on toss decision
 
 
 <img width="548" alt="Match_win_percent" src="https://github.com/ishita9988/IPL_Dashboard/assets/129153274/d37078bc-4cab-4e16-b205-31d73883537e">
