@@ -1,4 +1,4 @@
-# IPL(2008-2020)_Dashboard
+# IPL(2008-2020) Dashboard
 
 ![IPL_image](https://github.com/ishita9988/IPL_Dashboard/assets/129153274/5d202111-2756-4792-8950-4f512a79fe7d)
 
@@ -58,6 +58,14 @@ Tableau and Excel
 
 
 ![Dashboard 1 (2)](https://github.com/ishita9988/IPL_Dashboard/assets/129153274/ec1c1616-02f6-4126-830f-0488b28f5a31)
+
+## Insights
+
+* Mumbai Indians has won the title maximum number of times i.e. 5 times followed by Chennai Super Kings which has won the title 3 times 
+* Till IPL 2020, Virat kohli has scored the maximum number of runs
+* Till IPL 2020, SL malinga has taken maximum number of wickets.
+* Approx 61% teams chooses to field first after winning the toss.
+* David Warner won the orange cap maximum number of times i.e. 3 times 
 
 
 
